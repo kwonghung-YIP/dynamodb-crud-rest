@@ -1,0 +1,14 @@
+{
+    "email": {
+        "S": "john"
+    },
+    "id": {
+        "S": "b79f6609-1ef3-4509-b8c6-e91a0fbe4684"
+    },
+    "firstname": {
+        "S": "John"
+    },
+    "lastname": {
+        "S": "Doe"
+    }
+}
