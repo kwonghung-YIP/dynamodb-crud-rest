@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DynamodbCrudRestApplication<simple-springmvc-awssdk>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.hung.poc.aws.DynamodbCrudRestApplication",
+            "projectName": "simple-springmvc-awssdk",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
