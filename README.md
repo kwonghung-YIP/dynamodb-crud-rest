@@ -95,7 +95,7 @@ curl -X DELETE \
 ```
 
 ## Reference
-[Testing AWS service integrations using LocalStack](https://testcontainers.com/guides/testing-aws-service-integrations-using-localstack/)
-[Developer Guide - AWS SDK for Java 2.x](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
-[Learn the basics of the DynamoDB Enhanced Client API](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/ddb-en-client-use.html)
-[ClassCastExcpetion while DynamoDB.putItem](https://stackoverflow.com/questions/61556638/springboot-java-aws-sdk-2-dynamodb-enhanced-client-and-devtools-problem/64350067#64350067)
+- [Testing AWS service integrations using LocalStack](https://testcontainers.com/guides/testing-aws-service-integrations-using-localstack/)
+- [Developer Guide - AWS SDK for Java 2.x](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
+- [Learn the basics of the DynamoDB Enhanced Client API](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/ddb-en-client-use.html)
+- [ClassCastExcpetion while DynamoDB.putItem](https://stackoverflow.com/questions/61556638/springboot-java-aws-sdk-2-dynamodb-enhanced-client-and-devtools-problem/64350067#64350067)
