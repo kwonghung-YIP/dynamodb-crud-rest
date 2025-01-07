@@ -1,8 +1,8 @@
 ## Features covered in this example
 
 - This example implements a simple CRUD REST with Spring Boot MVC back with AWS DynamoDB.
-- To keep it simple and have better understanding the AWS DynamoDB service, the example uses (AWS SDK for Java 2.x)[https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html] directly but not using (Spring Cloud for Amazon Web Service)[https://spring.io/projects/spring-cloud-aws]
-- Instead of developing on AWS cloud, (LocalStack)[https://hub.docker.com/r/localstack/localstack] is used for local development, and also for JUnit test with TestContainer
+- To keep it simple and have better understanding the AWS DynamoDB service, the example uses [AWS SDK for Java 2.x](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html) directly but not using [Spring Cloud for Amazon Web Service](https://spring.io/projects/spring-cloud-aws)
+- Instead of developing on AWS cloud, [LocalStack](https://hub.docker.com/r/localstack/localstack) is used for local development, and also for JUnit test with TestContainer
 - DynamoDB Enhanced Client is used for mapping between Java POJO/JSON and DynamoDB item
 
 ## Set up LocalStack with docker-compose
